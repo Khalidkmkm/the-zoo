@@ -40,9 +40,3 @@ En React-applikation byggd med TypeScript som hämtar och visar djur från API:t
 │── package.json
 ```
 
-## API
-```
-https://animals.azurewebsites.net/api/animals
-```
-
-
